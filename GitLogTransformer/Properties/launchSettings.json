@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GitLogTransformer": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\git\\repo\\stats.txt"
+    }
+  }
+}
